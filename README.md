@@ -4,3 +4,4 @@ You can view the app on Netlify here...
 
 https://github-users-jaynz.netlify.app/
 
+Uses Auth0 for user authentication
